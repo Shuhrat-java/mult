@@ -1,0 +1,440 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "yycrmEtqPjoq7bwQLYanREPHIzo",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xoJ6mByBzVopZj2aXXTkpUPC0FI",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-08-24T04:50:09Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "01.  Odam alayxissalomning ikki o'g'li - Qarg'a voqeasi",
+                "description": "#Premyera #Islomuz # Multfilm\n01.  Одам алайхиссаломнинг икки ўғли - Қарға воқеаси\n\nҚуръонда зикри келган жонзотлар қиссаси  (1-қисм)\n\nIslom.uz портали халқимизнинг қалбидан жой эгаллаган «ҚУРЪОН ҚИССАЛАРИ» мультсериалнинг навбатдаги тўртинчи фаслини намойиш этади. Мультсериалнинг навбатдаги фасли «ҚУРЪОНДА ЗИКРИ КЕЛГАН ЖОНЗОТЛАР ҚИССАСИ»га бағишланади. Ушбу янги мультсериал, нафақат болалар, балки ёши катталарга ҳам қизиқарли ва фойдали бўлади деган умиддамиз.\n\nМультсериал 2002 йилда Миср давлатининг Cedars Art Production компанияси томонидан ишлаб чиқилган бўлиб, беш фаслдан иборат. Ҳар бир фасл 30 қисмни ташкил этади.\n\nIslom.uz портали 2020 йили Cedars Art Production компанияси билан музокара олиб борди ва таржима, дубльяж ҳамда ижтимоий тармоқларда мультсериални тақдим этиш учун тегишли рухсатномани қўлга киритди.\n\nМанфаатли бўлган ушбу лойиҳа Quran.uz саҳифаси раҳбари, Ҳасанхон Яҳё Aбдулмажид қорининг ташаббуси билан амалга оширилди.\n\n#Туҳфа \n👇\nIslom.uz порталининг telegram каналига обуна бўлинг!\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/upiS93DCR6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/upiS93DCR6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/upiS93DCR6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/upiS93DCR6o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/upiS93DCR6o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "upiS93DCR6o"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cv11Md9ZPNO0aGzbkAZVc7CodfU",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-08-18T11:43:05Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "02. Odam alayxissalomning ikki o'g'li - Qarg'a voqeasi (2-bo'lim)",
+                "description": "02. Одам алайхиссаломнинг икки ўғли - Қарға воқеаси (2-бўлим)\n\nҚуръонда зикри келган жонзотлар қиссаси  (2-қисм)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nҚуръонда зикри келган жонзотлар қиссаси  (1 қисм) \n- https://youtu.be/upiS93DCR6o\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ynZZFIZCGPA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ynZZFIZCGPA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ynZZFIZCGPA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ynZZFIZCGPA"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Rn-W6528FjiL_2y4uqU7bXz8GJE",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-08-19T10:41:03Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "03. Солиҳ алайҳиссаломнинг туяси | Solih alayhissalomning tuyasi",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси  (3-қисм)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nОдам алайхиссаломнинг икки ўғли | Қарға воқеаси\nhttps://youtu.be/ynZZFIZCGPA\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JpicpEOZhLk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JpicpEOZhLk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JpicpEOZhLk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JpicpEOZhLk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JpicpEOZhLk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JpicpEOZhLk"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jOOHnMPhZekTurbI0vwEstCjTeQ",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-08-19T14:22:45Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "04. Солиҳ алайҳиссаломнинг туяси (2-бўлим) | Solih alayhissalomning tuyasi (2-bo'lim)",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (4-қисм)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nСолиҳ алайҳиссаломнинг туяси\nhttps://youtu.be/JpicpEOZhLk\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XoU3mM6wOZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XoU3mM6wOZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XoU3mM6wOZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XoU3mM6wOZQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XoU3mM6wOZQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XoU3mM6wOZQ"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZLvIekOs9vbio1AOufWzLgn_u2A",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-08-21T03:16:51Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "05. Иброҳим алайҳиссаломнинг қуши | Ibrohim alayhissalomning qushi",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (5-қисм)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nСолиҳ алайҳиссаломнинг туяси (2-бўлим)\nhttps://youtu.be/XoU3mM6wOZQ\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mxo3zGlvHg4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mxo3zGlvHg4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mxo3zGlvHg4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mxo3zGlvHg4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mxo3zGlvHg4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mxo3zGlvHg4"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JvJqdd8wYnd-p-37LEb2Wfe32Vo",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-08-22T12:47:32Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "06. Иброҳим алайҳиссаломнинг қуши (2-қисм) | Ibrohim alayhissalomning qushi (2-qism)",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (6-қисм)\nQur'onda zikri kelgan jonzotlar qissasi (6-qism)\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/peE49AmJ3b4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/peE49AmJ3b4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/peE49AmJ3b4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/peE49AmJ3b4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "peE49AmJ3b4"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6HMnGv5o-vdGJeoAfv6dyNIef1E",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-08-22T13:20:52Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "07. Юсуф алайҳиссалом ва бўри  | Yusuf alayhissalom va bo'ri",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (7-қисм)\nQur'onda zikri kelgan jonzotlar qissasi (7-qism)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KNCemOqBsDU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KNCemOqBsDU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KNCemOqBsDU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KNCemOqBsDU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KNCemOqBsDU"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Qw3n1WrXG8oQBp6_V9noGhqB2cA",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-08-24T11:31:30Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "08. Юсуф алайҳиссалом ва бўри (2-бўлим) | Yusuf alayhissalom va bo'ri (2-bo'lim)",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (8-қисм)\nQur'onda zikri kelgan jonzotlar qissasi (8-qism)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nЮсуф алайҳиссалом ва бўри  | Yusuf alayhissalom va bo'ri\nhttps://youtu.be/KNCemOqBsDU\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/frIoEj8L3S0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/frIoEj8L3S0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/frIoEj8L3S0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/frIoEj8L3S0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/frIoEj8L3S0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "frIoEj8L3S0"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ijg2ktJDSK5IXdAgDZwhdAriwyg",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-08-26T14:48:20Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "09. Юнус алайҳиссалом ва кит | Yunus alayhissalom va kit",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (9-қисм)\nQur'onda zikri kelgan jonzotlar qissasi (9-qism)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nЮсуф алайҳиссалом ва бўри  | Yusuf alayhissalom va bo'ri\nhttps://youtu.be/KNCemOqBsDU\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NPyyvMiuUA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NPyyvMiuUA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NPyyvMiuUA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NPyyvMiuUA0"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "q1nMqJU8WtHeXbamV_MAkB2on58",
+            "id": "UEx5czM1NnRVNWo1UU5INmRQRTBQTEFORVBMS19pUV9Pay45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-08-26T14:47:41Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "10. Юнус алайҳиссалом ва кит (2-бўлим) | Yunus alayhissalom va kit (2-bo'lim)",
+                "description": "Қуръонда зикри келган жонзотлар қиссаси (10-қисм)\nQur'onda zikri kelgan jonzotlar qissasi (10-qism)\n\nМульсериалимизнинг янги фаслини томоша қилинг!\n\nНафақат болажонлар, балки барчамиз учун севимли бўлиб қолган «Қуръон қиссалари» мультсериалининг янги фаслини кутиб олинг. Мультсериалнинг навбатдаги фасли «Қуръонда номи келган жонзотлар» деб аталади. Бу фаслда сиз Қуръони Каримда зикри келган туя, ит, ҳудҳуд, чумоли каби кўплаб жониворлар ҳақидаги ибратли қиссаларни томоша қилишингиз мумкин. \nМарҳамат, мультсериалимизнинг янги фаслини оила даврасида томоша қилиб, Қуръони Каримнинг ибратли қиссаларидан баҳраманд бўлинг!\n\nЮнус алайҳиссалом ва кит | Yunus alayhissalom va kit\nhttps://youtu.be/NPyyvMiuUA0\n\n* * * * *\n\n«...Yaxshilik va taqvo yo'lida hamkorlik qiling. Gunoh va dushmanlik yo'lida hamkorlik \nqilmang. Allohga taqvo qiling...». (Moida surasi, 2-oyat).\nIslom.uz portali faoliyatidagi loyihalari qo'llab-quvvatlash uchun hisob raqamlar:  \n\nUz kard raqami: 8600 1404 5164 5817 (Madiyarov Davron)\n\nVisa raqami: 4854 7002 8374 8642 \n\nUnion Pay raqami: 6210 4502 7071 5535\n\nHisob raqam: 20208000605358737001\n\nUshbu hisob raqamlaridagi mablag'lar, saytlarning faoliyati, yangi loyihalarni amalga oshirish va media ma'lumotlar tayyorlash uchun yo'naltiriladi.\n\nRasmiy saytimiz: islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz. \n\nKanalimizda berib borilayotgan ma'lumotlarni yaqinlaringizga ham ulashing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DxS7AAaSBMQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DxS7AAaSBMQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DxS7AAaSBMQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DxS7AAaSBMQ"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 10,
+        "resultsPerPage": 50
+    }
+}
