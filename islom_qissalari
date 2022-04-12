@@ -1,0 +1,544 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "6r_bVKmIOfxYrqbvQJEeOf20Uv4",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3jtfdQBmlF9QR9_vcBlXHiFMcx8",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2022-04-01T06:28:02Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "Islom qissalari multseriali",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n\nAzizlar, maʼlumki, Islom.uz portali tomonidan tarjima qilingan, xalqimizning qalbidan joy egallagan, besh fasldan iborat «Qurʼonda zikri kelgan qissalar» nomli multserial siz azizlarga toʻliq taqdim qilingan edi. Ushbu multserial nafaqat bolalar, balki kattalarga ham qiziqarli va foydali boʻldi degan umiddamiz. \n\nBu ishga mutasaddi boʻlgan, hissa qoʻshgan hamda duoda boʻlgan barcha azizlarimizga, barcha muxlislarimizga tashakkurlar bildirib qolamiz va ushbu serialning yangi faslini Ramazon tuhfasi oʻlaroq eʼtiboringizga havola qilamiz. \nMarhamat, Ramazon oyida «Islomiy qissalar» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qUKi60KrfGU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qUKi60KrfGU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qUKi60KrfGU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qUKi60KrfGU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qUKi60KrfGU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qUKi60KrfGU"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pjCfACX7OF_f9wAdxgzK5-S-k4Q",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2022-04-02T00:21:19Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "01. Abu Zarr G'iforiy | Islom qissalari multserialining 1-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n\nAzizlar, maʼlumki, Islom.uz portali tomonidan tarjima qilingan, xalqimizning qalbidan joy egallagan, besh fasldan iborat «Qurʼonda zikri kelgan qissalar» nomli multserial siz azizlarga toʻliq taqdim qilingan edi. Ushbu multserial nafaqat bolalar, balki kattalarga ham qiziqarli va foydali boʻldi degan umiddamiz. \n\nBu ishga mutasaddi boʻlgan, hissa qoʻshgan hamda duoda boʻlgan barcha azizlarimizga, barcha muxlislarimizga tashakkurlar bildirib qolamiz va ushbu serialning yangi faslini Ramazon tuhfasi oʻlaroq eʼtiboringizga havola qilamiz. \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4iMuEcaNH48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4iMuEcaNH48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4iMuEcaNH48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4iMuEcaNH48"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "L8fQhAh37_ce-PAdflVkNU1FV54",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2022-04-02T23:01:42Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "02. Jobir Asarotil Kirom | Islom qissalari multserialining 2-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n\nAzizlar, maʼlumki, Islom.uz portali tomonidan tarjima qilingan, xalqimizning qalbidan joy egallagan, besh fasldan iborat «Qurʼonda zikri kelgan qissalar» nomli multserial siz azizlarga toʻliq taqdim qilingan edi. Ushbu multserial nafaqat bolalar, balki kattalarga ham qiziqarli va foydali boʻldi degan umiddamiz. \n\nBu ishga mutasaddi boʻlgan, hissa qoʻshgan hamda duoda boʻlgan barcha azizlarimizga, barcha muxlislarimizga tashakkurlar bildirib qolamiz va ushbu serialning yangi faslini Ramazon tuhfasi oʻlaroq eʼtiboringizga havola qilamiz. \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E8KIpVduVQE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E8KIpVduVQE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E8KIpVduVQE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E8KIpVduVQE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E8KIpVduVQE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E8KIpVduVQE"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DV7XbS6sSunnAzXKx-TIGzsUzQY",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2022-04-03T14:40:58Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "03. Ahmad ibn Hanbal | Islom qissalari multserialining 3-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n\nAzizlar, maʼlumki, Islom.uz portali tomonidan tarjima qilingan, xalqimizning qalbidan joy egallagan, besh fasldan iborat «Qurʼonda zikri kelgan qissalar» nomli multserial siz azizlarga toʻliq taqdim qilingan edi. Ushbu multserial nafaqat bolalar, balki kattalarga ham qiziqarli va foydali boʻldi degan umiddamiz. \n\nBu ishga mutasaddi boʻlgan, hissa qoʻshgan hamda duoda boʻlgan barcha azizlarimizga, barcha muxlislarimizga tashakkurlar bildirib qolamiz va ushbu serialning yangi faslini Ramazon tuhfasi oʻlaroq eʼtiboringizga havola qilamiz.\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7r-8lXDR-TY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7r-8lXDR-TY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7r-8lXDR-TY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7r-8lXDR-TY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7r-8lXDR-TY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7r-8lXDR-TY"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hKJiJSIOb-4ATMULblQTXkyOQOw",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-04-04T08:48:53Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "04. Samarqand | Islom qissalari multserialining 4-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-hlAb-Gun6o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-hlAb-Gun6o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-hlAb-Gun6o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-hlAb-Gun6o"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cngvxY1H6Pk1HxeORRHDtHNMWzE",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2022-04-05T23:40:16Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "05. Jannatiy inson | Islom qissalari multserialining 5-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DDHFef-R-eo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DDHFef-R-eo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DDHFef-R-eo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DDHFef-R-eo"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ek4oRhh495el1_mRxsolvjIhRkM",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2022-04-06T11:40:59Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "06. Uch malika | Islom qissalari multserialining 6-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/512FDAL6d4s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/512FDAL6d4s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/512FDAL6d4s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/512FDAL6d4s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/512FDAL6d4s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "512FDAL6d4s"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4Wm8WqvVMR5LmgsmIihsRBuyJr8",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2022-04-06T12:53:29Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "07. Muazzin | Islom qissalari multserialining 7-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7jvqbKhA4-Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7jvqbKhA4-Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7jvqbKhA4-Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7jvqbKhA4-Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7jvqbKhA4-Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7jvqbKhA4-Y"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5AAenJ_uJ2NQ7sv2KMfKr95IddQ",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2022-04-08T11:45:17Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "Kambagʻal choʻpon | Islom qissalari multserialining 8-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TTRe6uMRb24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TTRe6uMRb24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TTRe6uMRb24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TTRe6uMRb24/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TTRe6uMRb24/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TTRe6uMRb24"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nOqLVz6mV-zr0_x5uxCCorAsuwM",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2022-04-09T19:28:32Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "Kiyim | Islom qissalari multserialining 9-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserial",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-lR6ZFbXxRM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-lR6ZFbXxRM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-lR6ZFbXxRM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-lR6ZFbXxRM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-lR6ZFbXxRM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-lR6ZFbXxRM"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mwXtAig7Uo72W287YvO18mhak_k",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2022-04-10T23:16:07Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "Qozi Shurayh | Islom qissalari multserialining 10-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserialoud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lM5rbq4rNuI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lM5rbq4rNuI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lM5rbq4rNuI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lM5rbq4rNuI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lM5rbq4rNuI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lM5rbq4rNuI"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Q0exlWfLOfEuMeUH6WYZ9DrKuCM",
+            "id": "UEx5czM1NnRVNWo1VElhZnNsRWZZNnoycVAzdDY0bEVTSi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2022-04-11T11:15:17Z",
+                "channelId": "UCcSZr1or1h5dx4bYEMqfEvA",
+                "title": "Olma | Islom qissalari multserialining 11-qismi",
+                "description": "Bolajonlarimiz uchun Ramazon tuhfasi!\n \nMarhamat, Ramazon oyida «Islom qissalari» nomli multserialni oila davrasida tomosha qiling!\n\nUshbu mutserialning barcha sonlarini quyidagi havola orqali topishingiz mumkin:\n👇\nhttps://www.youtube.com/playlist?list=PLys356tU5j5TIafslEfY6z2qP3t64lESJ\n\n«Qurʼon qissalari» multserialining dastlabki besh mavsumini toʻliq holda quyidagi havolalar orqali tomosha qilishingiz mumkin:\n👇\n1-fasl. Qurʼonda kelgan insonlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QchO_1AxfgGyLyPkJZMQna\n\n2-fasl. Qurʼonda zikri kelgan ayollar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SOA0BeHOmY4MWCM9YiKu6M\n\n3-fasl. Qur'onda kelgan ajoyibotlar qissasi: 👉 https://www.youtube.com/playlist?list=PLys356tU5j5RgNojOpMdOtFQbPDeIkBRA\n\n4-fasl. Qurʼonda nomi kelgan jonzotlar qissasi: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QNH6dPE0PLANEPLK_iQ_Ok\n\n5-fasl. Qur'onda kelgan oyat-belgilar haqida: 👉https://www.youtube.com/playlist?list=PLys356tU5j5RowW8-r4PDJhigkPTjeYI_\n\nShuningdek, Habibimiz Muhammad alayhissalom siyratlari haqidagi multserilalning barcha qismlari:\nAllohning Habibi Muhammad 1-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5QG5CAQT7_HJ_B8V3wpgEQb\n\nAllohning Habibi Muhammad 2-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SSwpHO3p-rnFk9Q3x1R1nn\n\nAllohning Habibi Muhammad 3-faslining barcha sonlari: 👉https://www.youtube.com/playlist?list=PLys356tU5j5SfVim_BxnblS6LlSLq9csQ\n\nRasmiy saytimiz: https://islom.uz\nBizning ijtimoiy tarmoqlardagi sahifalarimiz:\nTelegram: https://t.me/islomuz​​​​\nInstagram: https://instagram.com/islomuz​​​​\nFacebook: https://facebook/www.islom.uz​​​​\nTwitter: https://twitter.com/islomuzofficial​​​​\nMedium: https://islomuz.medium.com​​​​\nSoundcloud: https://soundcloud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.\n\n#anons #mutfilm #islomuz #islamic #catoon #carton #multfilm #quron #quran #qissa #hikoya #islamic #islamicart #islamicpost #muslim #islomiymultfilm #multserialoud.com/islomuz​​​​\n\nBizga aloqaga chiqish uchun elektron manzillarimiz:\nTelegram bot: https://t.me/portalislomuzadmin_bot​​​​\npochta: admin@islom.uz\n\nTaklif, mulohaza va fikrlaringizni kommentariyada qoldirishingiz mumkin. InshaAlloh ko'rib chiqib javob beramiz.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e2GreugWbCk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e2GreugWbCk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e2GreugWbCk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e2GreugWbCk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e2GreugWbCk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Islom uz",
+                "playlistId": "PLys356tU5j5TIafslEfY6z2qP3t64lESJ",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "e2GreugWbCk"
+                },
+                "videoOwnerChannelTitle": "Islom uz",
+                "videoOwnerChannelId": "UCcSZr1or1h5dx4bYEMqfEvA"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 50
+    }
+}
